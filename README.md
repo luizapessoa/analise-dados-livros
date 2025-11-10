@@ -49,6 +49,3 @@ Explorar e compreender padrões de popularidade e avaliação em livros best-sel
 A análise demonstrou como dados literários podem revelar padrões de preferência dos leitores e ajudar a entender o comportamento do mercado editorial.  
 Este projeto foi essencial para praticar **análise exploratória, visualização e storytelling com dados**.
 
-## 🔗 Not👉 [Acesse o notebook no Google Colab](https://colab.research.google.com/drive/1Rr6wuJaYZ6UkrbX5HpVQlQrEeaVaeSym?authuser=0)
-
----
