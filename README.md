@@ -5,11 +5,6 @@ O objetivo foi extrair insights sobre autores, gêneros, avaliações e tendênc
 
 ---
 
-## 👩‍💻 Autores
-Gabriel Aguiar, Júlia Oliveira, Lucas de Arruda, Maria Clara Estevam e **Maria Luiza Pessoa**
-
----
-
 ## 🎯 Objetivo do Projeto
 Explorar e compreender padrões de popularidade e avaliação em livros best-sellers:
 - Quais autores têm mais livros acima da média de avaliação?
